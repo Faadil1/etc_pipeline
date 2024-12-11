@@ -1,0 +1,6 @@
+Python 3.9 or higher
+Dependencies:
+pandas
+sqlalchemy (if database integration is required)
+Install the required Python libraries using:
+ pip install -r requirements.txt
